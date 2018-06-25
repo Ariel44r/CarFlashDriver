@@ -1,0 +1,345 @@
+/* 
+  Localizable.strings
+  Apporio Taxi Driver
+
+  Created by AppOrio on 19/06/17.
+  Copyright © 2017 apporio. All rights reserved.
+*/
+
+
+//"Apporio Taxi Driver" = "";
+//"Login as demo driver" = "";
+//"LOGIN" = "";
+//"REGISTER" = "";
+//
+//"Email/Phone" = "";
+//"Password" = "";
+//"Forgot Password?" = "";
+//"Login Failed!" = "";
+//"Fields cannot be blank " = "";
+//"OK" = "";
+//"Login Successfully" = "";
+//"Unable to login!" = "";
+//"CREATE YOUR ACCOUNT" = "";
+//"Enter Name" = "";
+//"Enter Email" = "";
+//"Enter Mobile" = "";
+//"Enter Password" = "";
+//"Select City" = "";
+//"Select Car Type" = "";
+//"Select Model" = "";
+//"Enter Car Number" = "";
+//"CONTINUE" = "";
+//"Please select city first " = "";
+//"Please select car type first " = "";
+//"Registeration Failed!" = "";
+//"Fields cannot be blank" = "";
+//"Mobile number must be 10  digits" = "";
+//"Please Select Model " = "";
+//"Please Select CarType " = "";
+//" Wrong Email format " = "";
+//" Email id must not contain space " = "";
+//"Online" = "";
+//"Offline" = "";
+//"YOUR LOCATION" = "";
+//"Getting location...." = "";
+//"Profile" = "";
+//"Your Trips" = "";
+//"Earnings" = "";
+//"Promotions" = "";
+//"Report Issue" = "";
+//"Customer Support" = "";
+//"Terms Conditions" = "":
+//"About Us" = "";
+//"Change Language" = "";
+//"Report Issue Regarding TaxiApp Driver App" = "";
+//"Sending e-mail in-app is not so bad!" = "";
+//"Could Not Send Email" = "";
+//"Your device could not send e-mail.  Please check e-mail configuration and try again." = "";
+//"LOG OUT" = "";
+//"Your Account" = "";
+//"EMAIL ID" = "";
+//"NAME" = "";
+//"MOBILE NUMBER" = "";
+//"Done" = "";
+//"PASSWORD" = "";
+//"Edit Failed!" = "";
+//"Mobile No. must be of 10 characters " = "";
+//"Are You Sure to Log Out ?" = "";
+//"Confirm" = "";
+//"Cancel" = "";
+//"Profile Updated" = "";
+//"Unable to edit!" = "";
+//" Email Already Exsist or Field is Incorrect" = "";
+//"ABOUT US" = "";
+//"Terms And Conditions" = "";
+//"ACCEPT RIDE" = "";
+//"Pass" = "";
+//"Do you want to reject ride ? " = "";
+//"Yes" = "";
+//"No" = "";
+//"Do you want to accept ride ? " = "";
+//"Alert" = "";
+//"END TRIP" = "";
+//"BEGIN TRIP" = "";
+//"Reached" = "";
+//"CANCEL" = "";
+//"NAVIGATE" = "";
+//"New Message" = "";
+//"Click to View" = "";
+//"EMERGENCY FOR CALL" = "";
+//"Are You in problem ?" = "";
+//"Before begin trip" = "";
+//"Please enter drop location first" = "";
+//"Do you want to start ride ? " = "";
+//"Do you want to end ride ? " = "";
+//" Ride Started" = "";
+//"Coupon" = "";
+//"Your Trips" = "";
+//"No Rides!!" = "";
+//"Cancelled" = "";
+//"SCHEDULED" = "";
+//"Accepted" = "";
+//"REJECTED" = "";
+//"Driver Arrived" = "";
+//"ONGOING" = "";
+//"Cancelled by Admin" = "";
+//"Select Reason" = "";
+//"Don't Cancel" = "";
+//"Booking Cancelled !" = "";
+//"Forgot Password" = "";
+//"Submit" = "";
+//" Email id must not contain space " = "";
+//"Change Password" = "";
+//"Old Password" = "";
+//"New Password" = "";
+//"Confirm Password" = "";
+//"DONE" = "";
+//"SEND" = "";
+//"DO YOU HAVE A QUERY" = "";
+//"Please let us know about your query,our support team will get back to you" = "";
+//"Name" = "";
+//"your Query" = "";
+//"Phone" = "";
+//"Email" = "";
+//"Please Check Your Name" = "";
+//"Please Check Your Email" = "";
+//" Wrong Email format " = "";
+//"Please Check Your Query is blank" = "";
+//"Extra Distance Travel" = "";
+//"Extra Estimated time" = "";
+//"Coupon Applied" = "";
+//"Total Payable Amount" = "";
+//"Currently you are off duty. Please turn on your duty in order to get new rides at  your location." = "";
+//"Current Status" = "";
+//"OFF DUTY" = "";
+//"GO ONLINE" = "";
+//"You are on duty. In order to turn off request from customer please turn off duty." = "";
+//"GO OFFLINE" = "";
+//"ON DUTY" = "";
+//"Weekly Statement" = "";
+//"Total Earning" = "";
+//"Completed Trips" = "";
+//"Trips Earnings" = "";
+//"Total billed to customer" = "";
+//"Commision Deducted" = "";
+//"Net Earned" = "";
+//"Daily Earning" = "";
+//"Acceptance Rate" = "";
+//"Online Time" = "";
+//"Overall Rating" = "";
+//"VIEW OLD SUMMARY" = "";
+//"VIEW FULL SUMMARY" = "";
+//"Your Earning" = "";
+//"Total OutStanding" = "";
+//"Total Payout" = "";
+//"You need to provide data for the chart." = "";
+//"Rentals" = "";
+//"Package" = "";
+//"Time" = "";
+//"Package Price" = "";
+//"Pick up Point" = "";
+//"Accept" = "";
+//"Please Upload a photo of your meter of your car or motorcycle" = "";
+//"Enter meter value" = "";
+//"Add Details" = "";
+//"Please first add Meter Reading Image " = "";
+//"Please first add Meter Reading value " = "";
+//"Select Expiry date of your document" = "";
+//"USE IN CASE OF EMERGENCY" = "";
+//"Call Police Control Room" = "";
+//"Call Your Emergency Contact" = "";
+//"CLOSE" = "";
+//"Select Emergency Contact" = "";
+//"No Notification!!" = "";
+//"Upload a good quality of your document in order to submit your application" = "";
+//"Camera" = "";
+//"Gallery" = "";
+//"Enter Expiry date of your document" = "";
+//"Submit" = "";
+//"Please enter document Expiration Date" = "";
+//"Upload Documents" = "";
+//"Please upload document image first " = "";
+//"Please Upload Required Document in order To complete the Process. You will be able to use our service only when admin will verify the documents." = "";
+//"Document Status" = "";
+//"Please upload Again" = "";
+//"Verified" = "";
+//"Not yet Verified" = "";
+//"Upload" = "";
+//"No document in your city" = "";
+//"Types of Rides" = "";
+//"Enter Bank Name" = "";
+//"Enter Account Number" = "";
+//"Enter Account Name" = "";
+//"Please Enter Mobile Number" = "";
+//"Please enter the One Time Password(OTP) received on your entered mobile number!" = "";
+//"Verify Phone Number" = "";
+//"GET OTP" = "";
+//"Submit" = "";
+//"Enter Otp" = "";
+//"Enter Phone" = "";
+//"Mobile number must be less than 11 digits." = "";
+//"Please Enter Mobile Number First" = "";
+//"Please Enter Valid OTP" = "";
+//"Password Shoud Not Be Less Then 6" = "";
+//"Password Does Not Match" = "";
+//"RESET YOUR PASSWORD" = "";
+//"New Password" = "";
+//"Confirm Password" = "";
+//"Change Password" = "";
+//"Enter Password" = "";
+//"Confirm Password" = "";
+//"or sign up with" = "";
+//"Phone Number" = "";
+//"Password" = "";
+//"Enter Mobile Number" = "";
+//"ACCOUNT NUMBER" = "";
+//"ACCOUNT NAME" = "";
+//"BANK NAME" = "";
+//"Payment Mode : " = "";
+//"Please Confirm This Receipt with customer." = "";
+//"Trip Detail" = "";
+//"Initial meter Reading" = "";
+//"Final meter Reading" = "";
+//"Total Payable Amount" = "";
+//"Distance Travel :" = "";
+//"Total Time :" = "";
+//"Bill Details :" = "";
+//"Total Price :" = "";
+//"RIDE FARE" = "";
+//"RATING" = "";
+//"Comment(if any)" = "";
+//"Total Distance :" = "";
+//"Fare :" = "";
+//"Total Ride Time :" = "";
+//"Total Waiting Time :" = "";
+//"Ride Time Charges :" = "";
+//"Waiting Charge :" = "";
+//"Night Time Charges :" = "";
+//"Peak Time Charges :" = "";
+//"Net Fare :" = "";
+//"Ride Details" = "";
+//"GO TO YOUR CURRENT RIDE" = "";
+//"Total Distance travel" = "";
+//"Distance Fare" = "";
+//"Payment" = "";
+//"Total Bill" = "";
+//"New Trip Detail" = "";
+//"Booking Date :" = "";
+//"Scheduled Date :" = "";
+//"ACCEPT" = "";
+//"REJECT" = "";
+//"Accept/Reject" = "";
+//"To continue, let your device turn on location, which uses Google's location services.Please turn on your location from settings." = "";
+//"Ride has been cancelled by user" = "";
+//"Cancelled" = "";
+//"New Version Available. Please update the app first." = "";
+//"UPDATE AVAILABLE " = "";
+//"Update App" = "";
+//"Later" = "";
+//"Your Notification has been expired!!" = "";
+//"Ride has been cancelled by Admin" = "";
+//"Your Notification has been expired!!" = "";
+//"Ride has been cancelled by user" = "";
+//"Drop location has been changed by customer" = "";
+//"App is under maintance." = "";
+//"Exit" = "";
+//"Upcoming Trips" = "";
+//"Ongoing Trips" = "";
+//"Past Trips" = "";
+//"Cancelled by you" = "";
+//"Cancelled by user" = "";
+//"Gallery" = "";
+//"Select Option" = "";
+//"Camera" = "";
+//"Choose Language" = "";
+//"Please Choose Language" = "";
+//"Log Out" = "";
+//"Are You Sure to Log Out ?" = "";
+//"Confirm" = "";
+//"Please enter Account Name" = "";
+//"Alert" = "";
+//"Please enter Account Number" = "";
+//Please enter Bank Name" = "";
+//"Please enter Vehicle Plate" = "";
+//"Please select car model first " = "";
+//"Please select car type first " = "";
+//"Please select city first " = "";
+//"Please enter Password" = "";
+//"Please enter Email" = "";
+//"Please enter First Name" = "";
+//"Please upload your image" = "";
+//"Rate the Ride" = "";
+//"Start For Customer Pick Up" = "";
+//"Demand Spot" = "";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
